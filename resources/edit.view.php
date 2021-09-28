@@ -7,7 +7,7 @@
                 <li class="block relative" x-data="{showChildren:false}" @click.away="showChildren=false">
                     <a href="#" class="flex items-center h-10 leading-10 px-4 rounded cursor-pointer no-underline hover:no-underline transition-colors duration-100 mx-1 hover:bg-gray-100" @click.prevent="showChildren=!showChildren">
                         <span class="mr-3 text-2xl"> <i class="mdi mdi-layers-outline"></i> </span>
-                        <span class="text-2xl">إنشاء منتح حديد</span>
+                        <span class="text-2xl"> صفحة االتعديل</span>
                         <span class="ml-2"> <i class="mdi mdi-chevron-down"></i> </span>
                     </a>
                 </li>
